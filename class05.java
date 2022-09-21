@@ -23,7 +23,7 @@ public class class02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		CCount cc = new CCount();
+		CCount cc = new CCount();//建立物件
 		cc.count();
 		cc.setZero();
 		cc.setZero(1);
