@@ -2,7 +2,7 @@ package java09;
 
 class a {
 	void power(int x, int n) {
-		Math.pow(x, n);
+		Math.pow(x, n);//pow 次方
 		
 	}
 		
