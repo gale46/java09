@@ -15,7 +15,7 @@ class CCount {
 		cnt = n;
 	}
 	// (d)cnt類別變數
-	// (e)count兩者都可
+	// (e)實例變數
 
 }
 
